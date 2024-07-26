@@ -6,7 +6,7 @@
     "strictContentTypeValidation": true
   },
   "proxy": {
-    "remoteUrl": "http://example.com/p2",
+    "remoteUrl": "http://localhost:8081/#admin/repository/repositories",
     "contentMaxAge": 1440,
     "metadataMaxAge": 1440
   },
