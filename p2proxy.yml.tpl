@@ -5,7 +5,7 @@
   blobStoreName: default
   strictContent: false
   negativeCache:
-  remoteUrl: http://localhost:8081/#admin/repository/repositories:p2-eclipse-xtext-proxy
+  remoteUrl: http://localhost:8081/#admin/repository/repositories
   contentMaxAge:
   metadataMaxAge:
   blocked:
